@@ -1,9 +1,9 @@
-package dk.sea.mytunes;
+package dk.sea.gui;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class MyTunesController {
     @FXML
     private Label welcomeText;
 

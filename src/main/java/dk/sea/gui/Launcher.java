@@ -1,9 +1,9 @@
-package dk.sea.mytunes;
+package dk.sea.gui;
 
 import javafx.application.Application;
 
 public class Launcher {
     public static void main(String[] args) {
-        Application.launch(HelloApplication.class, args);
+        Application.launch(MyTunesApp.class, args);
     }
 }
